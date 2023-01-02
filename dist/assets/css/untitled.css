@@ -3,3 +3,32 @@
   box-shadow: none !important;
 }
 
+.bg-tertiary-light {
+  /* Overwrite default CSS that has a shadow in the navigation bar */
+  background-color: rgba(216, 159, 60, .3) !important;
+}
+
+.text-tertiary {
+  /* Overwrite default CSS that has a shadow in the navigation bar */
+  color: rgb(216, 159, 60) !important;
+}
+
+.btn-tertiary {
+  /* Overwrite default CSS that has a shadow in the navigation bar */
+  background-color: rgb(216, 159, 60) !important;
+}
+
+.bg-tertiary-light a {
+  /* Overwrite default CSS that has a shadow in the navigation bar */
+  color: rgb(216, 159, 60) !important;
+}
+
+.bg-tertiary-light a:hover {
+  /* Overwrite default CSS that has a shadow in the navigation bar */
+  color: rgb(167, 119, 36) !important;
+}
+
+.btn-tertiary:hover {
+  /* Overwrite default CSS that has a shadow in the navigation bar */
+  background-color: rgb(167, 119, 36) !important;
+}
