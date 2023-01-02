@@ -15,30 +15,30 @@
   
   .bg-tertiary-light {
     /* Overwrite default CSS that has a shadow in the navigation bar */
-    background-color: rgba(216, 159, 60, .3) !important;
+    background-color: #d89f3c4d !important;
   }
   
   .text-tertiary {
     /* Overwrite default CSS that has a shadow in the navigation bar */
-    color: rgb(216, 159, 60) !important;
+    color: #d89f3c !important;
   }
   
   .btn-tertiary {
     /* Overwrite default CSS that has a shadow in the navigation bar */
-    background-color: rgb(216, 159, 60) !important;
+    background-color: #d89f3c !important;
   }
   
   .bg-tertiary-light a {
     /* Overwrite default CSS that has a shadow in the navigation bar */
-    color: rgb(216, 159, 60) !important;
+    color: #d89f3c !important;
   }
   
   .bg-tertiary-light a:hover {
     /* Overwrite default CSS that has a shadow in the navigation bar */
-    color: rgb(167, 119, 36) !important;
+    color: #a77724 !important;
   }
   
   .btn-tertiary:hover {
     /* Overwrite default CSS that has a shadow in the navigation bar */
-    background-color: rgb(167, 119, 36) !important;
+    background-color: #a77724 !important;
   }
