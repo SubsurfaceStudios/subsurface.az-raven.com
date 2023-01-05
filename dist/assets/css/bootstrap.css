@@ -1,4 +1,9 @@
-@import url(https://www.subsurface.ga/assets/fonts/Inter.ttf);
+/* @import url(https://www.subsurface.ga/assets/fonts/Inter.ttf); */
+
+@font-face {
+    font-family: Inter;
+    src: url(https://www.subsurface.ga/assets/fonts/Inter.ttf);
+}
 /*!
  * Bootstrap  v5.2.2 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
