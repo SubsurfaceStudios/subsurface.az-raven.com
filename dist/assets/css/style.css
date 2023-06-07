@@ -1,3 +1,7 @@
+* {
+  --bs-font-sans-serif: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .shadow {
   /* Overwrite default CSS that has a shadow in the navigation bar */
   box-shadow: none !important;
